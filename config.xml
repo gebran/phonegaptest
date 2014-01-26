@@ -16,6 +16,10 @@
     <author href="https://build.phonegap.com" email="gebran.sleiman@gmail.com">
         gebran bou sleiman
     </author>
+    
+    <gap:plugin name="org.apache.cordova.dialogs" />
+    <gap:plugin name="org.apache.cordova.geolocation" />
+    
     <gap:platform name="ios" />
     <gap:platform name="android" />
     <gap:platform name="webos" />
